@@ -33,9 +33,6 @@ bcd [text2][another link]
 <hr/>
 <hr/>
 
-<hr/>
-<hr/>
-
 ### IMAGES
 ![ABC](https://octodex.github.com/images/bannekat.png)
 
