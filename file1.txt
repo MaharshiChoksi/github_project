@@ -1,2 +1,4 @@
 Git Branch Testing
 adding content by mitul
+
+learn to resolve conflict
